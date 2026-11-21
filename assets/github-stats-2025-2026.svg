@@ -1,0 +1,87 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1100" height="440" viewBox="0 0 1100 440">
+
+  <rect width="1100" height="440" rx="18" fill="#ffffff"/>
+
+  <!-- Heading -->
+  <text x="40" y="55" font-size="30"
+        font-weight="bold" fill="#24292f">
+    GitHub Contribution Streak
+  </text>
+
+  <text x="1060" y="55" text-anchor="end"
+        font-size="21" font-weight="bold" fill="#2563eb">
+    2025 – 2026
+  </text>
+
+  <!-- Statistics card -->
+  <rect x="30" y="85" width="1040" height="205"
+        rx="18" fill="#f8faff"
+        stroke="#d8dee9" stroke-width="2"/>
+
+  <path d="M376 105 V270 M724 105 V270"
+        stroke="#d8dee9" stroke-width="2"/>
+
+  <!-- Total Contributions -->
+  <text x="203" y="165" text-anchor="middle"
+        font-size="50" font-weight="bold"
+        fill="#172b4d">245</text>
+
+  <text x="203" y="205" text-anchor="middle"
+        font-size="21" fill="#53627c">
+    Total Contributions
+  </text>
+
+  <text x="203" y="250" text-anchor="middle"
+        font-size="22" font-weight="bold"
+        fill="#2563eb">2025 – 2026</text>
+
+  <!-- Current Streak -->
+  <circle cx="550" cy="160" r="52"
+          fill="none" stroke="#f59e0b" stroke-width="8"/>
+
+  <text x="550" y="174" text-anchor="middle"
+        font-size="43" font-weight="bold"
+        fill="#172b4d">7</text>
+
+  <text x="550" y="240" text-anchor="middle"
+        font-size="22" font-weight="bold"
+        fill="#e87500">Current Streak</text>
+
+  <text x="550" y="270" text-anchor="middle"
+        font-size="18" fill="#2563eb">
+    2025 – 2026
+  </text>
+
+  <!-- Longest Streak -->
+  <text x="897" y="165" text-anchor="middle"
+        font-size="50" font-weight="bold"
+        fill="#172b4d">18</text>
+
+  <text x="897" y="205" text-anchor="middle"
+        font-size="21" fill="#53627c">
+    Longest Streak
+  </text>
+
+  <text x="897" y="250" text-anchor="middle"
+        font-size="22" font-weight="bold"
+        fill="#2563eb">2025 – 2026</text>
+
+  <!-- Languages section -->
+  <text x="40" y="345" font-size="27"
+        font-weight="bold" fill="#24292f">
+    Most Used Languages
+  </text>
+
+  <rect x="30" y="365" width="1040" height="55"
+        rx="13" fill="#f8faff"
+        stroke="#d8dee9" stroke-width="2"/>
+
+  <text x="550" y="401" text-anchor="middle"
+        font-size="23" font-weight="bold"
+        fill="#2563eb">
+    Contribution Period: 2025 – 2026
+  </text>
+
+</svg>
