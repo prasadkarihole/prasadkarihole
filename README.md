@@ -60,9 +60,10 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/github-stats-2025-2026.svg" width="100%" alt="GitHub Contribution Statistics 2025-2026"/>
+  <img src="./assets/github-stats-2025-2026.svg"
+       width="100%"
+       alt="GitHub Contribution Statistics"/>
 </p>
-
 ---
 
 ### 🤝 Connect With Me
