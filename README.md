@@ -58,11 +58,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=333333" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" width="70%"/>
-</p>
----
+### 📅 Yearly GitHub Contributions
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&commits_year=2025&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=333333" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&commits_year=2026&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=333333" width="48%"/>
+</p>
+
+### 🔥 Longest GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&date_format=M%20j%2C%20Y&timezone=Asia%2FKolkata" width="70%"/>
+</p>
+
+---
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME
