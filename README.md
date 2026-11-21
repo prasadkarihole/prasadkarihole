@@ -60,15 +60,5 @@
 ### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <b>Contribution Period: 2025 – 2026</b>
-</p>
-
-- GitHub: https://github.com/YOUR_USERNAME
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Keep Learning, Keep Building!
+  <img src="./assets/github-stats-2025-2026.png" width="100%" alt="GitHub Stats 2025-2026"/>
 </p>
