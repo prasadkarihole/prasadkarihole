@@ -68,11 +68,7 @@
         font-weight="bold" fill="#24292f">
 ### 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="./assets/github-stats-2025-2026.svg"
-       width="100%"
-       alt="GitHub Statistics 2025-2026">
-</p>
+![GitHub Statistics](./assets/github-stats-2025-2026.svg)
     📊 Most Used Languages
   </text>
 
