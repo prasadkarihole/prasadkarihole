@@ -57,13 +57,17 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
+<!-- Total Contributions -->
+<text x="183" y="135" text-anchor="middle"
+font-size="42" font-weight="bold" fill="#172b4d">245</text>
 
-<p align="center">
-  <img src="./assets/github-stats-2025-2026.png" width="100%" alt="Custom GitHub Statistics 2025-2026"/>
-</p>
+<!-- Current Streak -->
+<text x="500" y="158" text-anchor="middle"
+font-size="38" font-weight="bold" fill="#172b4d">7</text>
 
----
+<!-- Longest Streak -->
+<text x="817" y="135" text-anchor="middle"
+font-size="42" font-weight="bold" fill="#172b4d">18</text>
 
 ### 🤝 Connect With Me
 
