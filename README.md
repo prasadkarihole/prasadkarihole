@@ -48,11 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&commits_year=2026&hide_border=true&bg_color=FFFFFF&title_color=2563EB&icon_color=F59E0B&text_color=333333" width="48%"/>
 </p>
 
-### 🔥 Longest GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true" width="70%"/>
-</p>
 
 ### 💻 Most Used Languages
 
@@ -62,13 +58,11 @@
 
 ---
 
-### 🔥 Longest GitHub Contribution Streak
+### 🔥 GitHub Contribution Streak (2025–2026)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&date_format=M%20j%2C%20Y&timezone=Asia%2FKolkata" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
-
----
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME
