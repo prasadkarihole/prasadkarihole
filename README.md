@@ -1,3 +1,4 @@
+# Hi 👋, I'm Prasad
 
 <h1 align="center">Hi 👋, I'm Prasad</h1>
 <h3 align="center">Aspiring Python Developer | AI & Data Science Enthusiast</h3>
@@ -18,7 +19,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,dart,flutter,fastapi,mysql,git,github,vscode" />
 </p>
 
@@ -28,11 +29,26 @@
 - Career App
 - Tic Tac Toe Game
 
+---
+
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -41,5 +57,5 @@
 - GitHub: https://github.com/YOUR_USERNAME
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  ⭐ Thanks for visiting my profile! Keep Learning, Keep Building!
 </p>
