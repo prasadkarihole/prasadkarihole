@@ -51,15 +51,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
-### 🔥 Contribution Streak
+
+
+### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src=["https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" alt="GitHub Streak Stats"/>
 </p>
+
+---
+
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
