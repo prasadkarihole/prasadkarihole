@@ -61,12 +61,11 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📅 My GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github" alt="GitHub Contribution Activity"/>
+  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="GitHub Contributions Chart" width="100%"/>
 </p>
-
 ---
 
 ### 🤝 Connect With Me
