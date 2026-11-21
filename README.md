@@ -51,37 +51,21 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1200" height="530" viewBox="0 0 1200 530">
-
-  <rect width="1200" height="530" fill="#ffffff"/>
-
-  <!-- Heading -->
-  <text x="50" y="70" font-size="32"
-        font-weight="bold" fill="#24292f">
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Statistics](./assets/github-stats-2025-2026.svg)
-    📊 Most Used Languages
-  </text>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/github-stats-2025-2026.svg" width="100%" alt="GitHub Contribution Statistics 2025-2026"/>
+</p>
 
-  <rect x="40" y="415" width="1120" height="90"
-        rx="18" fill="#f8faff" stroke="#d8dee9" stroke-width="2"/>
+---
 
-  <text x="600" y="470" text-anchor="middle"
-        font-size="28" font-weight="bold" fill="#2563eb">
-    2025 – 2026
-  </text>
-
-</svg>
-
+### 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
